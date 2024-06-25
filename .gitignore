@@ -1,0 +1,10 @@
+# pyenv and pipenv
+Pipfile.lock
+.mypy_cache
+
+# IDE
+.idea
+.vscode
+
+# scrapped output
+output/
